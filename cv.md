@@ -27,3 +27,4 @@ JavaScript 2023Q1
 ## Language
 * **Rusiian**
 * **English(A1)**
+*  **Belarus**
